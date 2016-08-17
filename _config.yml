@@ -11,6 +11,9 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.9629074402619153
+author:
+  name: Pedro Navarro
+  email: pedronavarrob@gmail.com
 name: Geek Camp
 title: The Geek Camp
 description: 'Tech, design, and lifestyle'
