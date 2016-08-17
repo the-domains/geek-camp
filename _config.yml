@@ -1,0 +1,14 @@
+layout_spectrum: 0.9629074402619153
+typography_spectrum: 0.2616480980068445
+color:
+  brandStrength: 0.6783963225316256
+  lightness: 0.45275790989398956
+  saturation: 0.1524836018215865
+  rhythmicContrast: 0.35842252569273114
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Geek Camp
